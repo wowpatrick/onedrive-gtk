@@ -1,6 +1,6 @@
-# GTK sync status
+# OneDrive GTK
 
-A simple Python / GTK app display the current sync status of  [abraunegg/onedrive](https://github.com/abraunegg/onedrive).
+A simple Python / GTK GUI to display the current sync status of  [abraunegg/onedrive](https://github.com/abraunegg/onedrive).
 
 ## Dependencies
 
